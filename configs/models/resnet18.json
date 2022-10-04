@@ -1,0 +1,5 @@
+{
+	"model_type": "resnet18",
+	"num_classes": 1,
+	"pretrained": "../pretrained_models/resnet18-5c106cde.pth"
+}

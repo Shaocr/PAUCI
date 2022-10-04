@@ -1,0 +1,14 @@
+{
+	"data_dir": "../data/tiny-imagenet-200",
+	"input_size": [224, 224],
+	"lmdb_dir": "../data/lmdb/tiny-imagenet-200",
+	"sampler": {
+		"rpos": 1,
+		"rneg": 10
+	},
+	"npy_style": false,
+	"class2id": {
+		"70":1, "81":1, "94":1, "107":1, "111":1, "116":1,
+		 "121":1, "133":1, "145":1,  "153":1, "164":1,  "166":1
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"data_dir": "./data/cifar-100-long-tail",
+	"input_size": [32, 32],
+	"sampler": {
+		"rpos": 1,
+		"rneg": 10
+	},
+	"npy_style": true,
+	"class2id": {
+		"6":1, "7":1, "14":1, "18":1, "24":1
+	}
+}
