@@ -55,13 +55,13 @@ The following methods are provided in this repository (see Problem Formulation i
 * OPAUC Losses, An implement of the loss function in section 3.1.
 * TPAUC Losses, An implement of the loss function in section 3.2.
 
-See `losses/SPAUCI.py` for usage.
+See `./losses/SPAUCI.py` for usage.
 
 ## Optimizer
 
 An implement of the training algorithm in section 4.
 
-See `optimizer/MinMax.py` for usage.
+See `./optimizer/MinMax.py` for usage.
 
 ## References
 If this code is helpful to you, please consider citing our paper:
