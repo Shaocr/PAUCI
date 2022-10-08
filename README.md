@@ -50,7 +50,7 @@ test pauc:0.7721479724874244
 
 ## Losses
 
-The following methods are provided in this repository (see Problem Formulation in our paper):
+The following methods are provided in this repository (see section 3 in our paper):
 
 * OPAUC Losses, An implement of the loss function in section 3.1.
 * TPAUC Losses, An implement of the loss function in section 3.2.
