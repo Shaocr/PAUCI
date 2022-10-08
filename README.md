@@ -45,7 +45,7 @@ epoch:1 val pauc:0.9495861038852849
 ...
 epoch:48 val pauc:0.9628886839452894
 epoch:49 val pauc:0.9652434893251374
-test pauc:0.7547479724874244
+test pauc:0.7721479724874244
 ```
 
 ## Losses
