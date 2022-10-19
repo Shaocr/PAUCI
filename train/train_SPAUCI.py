@@ -107,7 +107,7 @@ for dataset in ['cifar-10-long-tail-1', 'cifar-10-long-tail-2', 'cifar-10-long-t
 		model.eval()
 		val_pred = np.array([])
 		val_label = np.array([])
-		for i, (img, lbl, idx) in enumerate(train_loader):
+		for i, (img, lbl, idx) in enumerate(val_loader):
 			img = img.cuda(0)
 			lbl = lbl.cuda(0).float()
 			out = sigmoid(model(img))
